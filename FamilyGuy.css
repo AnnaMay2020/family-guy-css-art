@@ -659,6 +659,7 @@ body {
 /* Part 9- text animation */
 
 ul {
+	position: absolute;
 	margin: 0px;
 	padding: 0px;
 	display: flex;
@@ -670,6 +671,7 @@ ul li {
 	color: white;
 	font-size: 100px;
 	font-weight: bold;
+	font-family: Abril Fatface;
 	letter-spacing: 10px;
 	transition: 2s;
 }
